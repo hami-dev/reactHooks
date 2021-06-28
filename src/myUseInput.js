@@ -14,7 +14,7 @@ const useInput = (initialValue, validator) => {
 
         //functino이 아니라 다른 타입이 들어오면
         if (typeof validator === "function") {
-            //이 줄에서 에러가 남
+            //이 줄에서 에러가 남!
             willUpdate = validator(value);
         }
         if (willUpdate) {
