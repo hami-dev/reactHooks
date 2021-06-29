@@ -2,7 +2,8 @@ import React from "react";
 import ReactDOM from "react-dom";
 // import App from "./myUseState";
 // import App from "./myUseInput2";
-import App from "./myUseTabsApp";
+// import App from "./myUseTabsApp";
+import App from "./myUseEffect";
 
 ReactDOM.render(
     <React.StrictMode>
