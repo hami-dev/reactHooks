@@ -5,7 +5,8 @@ import ReactDOM from "react-dom";
 // import App from "./myUseTabsApp";
 // import App from "./myUseEffect";
 // import App from "./myUseTitleApp";
-import App from "./myUseRefApp";
+// import App from "./myUseRefApp";
+import App from "./myUseClickApp";
 
 ReactDOM.render(
     <React.StrictMode>
